@@ -1,1 +1,1 @@
-IP Adressing 
+IP Addressing 
